@@ -7,5 +7,5 @@ A fun, interactive text-based game where players make choices to find hidden tre
 3. Simple and interactive gameplay for all age groups.
 4. Error handling for invalid inputs to ensure a smooth experience.
 
-   **This game is perfect for beginners learning Python and game logic**
+**This game is perfect for beginners learning Python and game logic**
 
